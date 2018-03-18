@@ -1,12 +1,12 @@
 {
-    "name": "barryvdh/laravel-translation-manager",
+    "name": "maorkavod/laravel-translation-manager",
     "description": "Manage Laravel Translations",
     "keywords": ["laravel", "translations", "translator"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Barry vd. Heuvel",
-            "email": "barryvdh@gmail.com"
+            "name": "Maor Kavod",
+            "email": "maor.kavod@gmail.com"
         }
     ],
     "require": {
